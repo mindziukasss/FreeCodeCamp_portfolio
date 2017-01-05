@@ -1,3 +1,20 @@
+#title{
+	text-align: center;
+}
+
+#logo {
+	width: 0px;
+	font-size: 52px;
+	color: black;
+	margin-left: 55px;
+}
+#img {
+    border: 2px solid #9d9d9d;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 5px;
+}
+
 hr {
 	border-width: 3px;
 }
